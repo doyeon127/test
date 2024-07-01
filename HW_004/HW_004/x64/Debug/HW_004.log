@@ -1,0 +1,4 @@
+﻿  HW_004.c
+C:\Users\jhkoo\Desktop\HW_07_01\HW_004\HW_004.c(22,14): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jhkoo\Desktop\HW_07_01\HW_004\HW_004.c(23,11): warning C4477: 'printf' : 서식 문자열 '%.2f'에 'double' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int'입니다.
+  HW_004.vcxproj -> C:\Users\jhkoo\Desktop\HW_07_01\HW_004\x64\Debug\HW_004.exe
